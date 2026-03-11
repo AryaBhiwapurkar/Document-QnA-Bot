@@ -1,0 +1,17 @@
+# Data and vector store
+data/
+db/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# OS
+.DS_Store
+Thumbs.db
