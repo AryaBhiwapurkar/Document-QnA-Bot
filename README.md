@@ -114,9 +114,6 @@ MIT
 ## Documentation
 
 Detailed technical documentation covering the full codebase, design decisions, and interview prep notes is available here:
-[Technical Documentation (PDF)](link-to-your-pdf)
+[Technical Documentation (PDF)](https://drive.google.com/file/d/1VyKFG6y49TLVJWv__zplS8dKEN9xu1R8/view?usp=sharing)
 
-## Author
 
-**Arya Bhiwapurkar**
-[GitHub](https://github.com/AryaBhiwapurkar) · [LinkedIn](your-linkedin-url)
