@@ -109,3 +109,14 @@ Document-QnA-Bot/
 ## License
 
 MIT
+
+
+## Documentation
+
+Detailed technical documentation covering the full codebase, design decisions, and interview prep notes is available here:
+[Technical Documentation (PDF)](link-to-your-pdf)
+
+## Author
+
+**Arya Bhiwapurkar**
+[GitHub](https://github.com/AryaBhiwapurkar) · [LinkedIn](your-linkedin-url)
