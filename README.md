@@ -114,6 +114,6 @@ MIT
 ## Documentation
 
 Detailed technical documentation covering the full codebase, design decisions, and interview prep notes is available here:
-[Technical Documentation (PDF)](https://drive.google.com/file/d/1VyKFG6y49TLVJWv__zplS8dKEN9xu1R8/view?usp=sharing)
+[Technical Documentation (PDF)](https://drive.google.com/file/d/1ysSybGk0suHnpre21dwwyVE-_OuS9i7b/view?usp=sharing)
 
 
